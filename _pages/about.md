@@ -1,6 +1,6 @@
 ---
-layout: about
-title: "About Me"
+permalink: /
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Master's student at the **School of Computer Science and Technology, Dalian University of Technology (DUT)**, where I am fortunate to be advised by **Assistant Professor Shi Jihao**. Prior to that, I received my B.S. degree in Computer Science and Technology from the **School of Computer Science and Artificial Intelligence, Wuhan University of Technology (WUT)** in 2026.
+I am an incoming Master's student at the **School of Computer Science and Technology, Dalian University of Technology (DUT)**, where I am fortunate to be advised by **Assistant Professor Jihao Shi**. Prior to that, I received my B.S. degree in Computer Science and Technology from the **School of Computer Science and Artificial Intelligence, Wuhan University of Technology (WUT)** in 2026.
 
 My research interests lie in **Natural Language Processing (NLP)**, with a particular focus on:
 - Retrieval-Augmented Generation (RAG)
@@ -20,8 +20,6 @@ My research interests lie in **Natural Language Processing (NLP)**, with a parti
 
 # 🎓 Education
 
-- *2026.09 - Present*, **Dalian University of Technology (DUT)**  
-  M.S. Student, School of Computer Science and Technology  
+- *2026.09 - Present*, **Dalian University of Technology (DUT)** M.S. Student, School of Computer Science and Technology  
 
-- *2022.09 - 2026.06*, **Wuhan University of Technology (WUT)**  
-  B.S. in Computer Science and Technology, School of Computer Science and Artificial Intelligence
+- *2022.09 - 2026.06*, **Wuhan University of Technology (WUT)** B.S. in Computer Science and Technology, School of Computer Science and Artificial Intelligence
